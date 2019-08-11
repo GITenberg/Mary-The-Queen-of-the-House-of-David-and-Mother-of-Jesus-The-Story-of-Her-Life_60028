@@ -1,5 +1,5 @@
 _repo: Mary-The-Queen-of-the-House-of-David-and-Mother-of-Jesus-The-Story-of-Her-Life_60028
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Talmage, T. De Witt (Thomas De Witt)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '5618'
     url: http://www.gutenberg.org/2009/agents/5618
     wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+covers:
+- cover_type: archival
+  image_path: 60028-h/images/cover.jpg
 creator:
   author:
     agent_name: Walsh, A. Stewart (Alexander Stewart)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '50748'
     url: http://www.gutenberg.org/2009/agents/50748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60028#Mary-The-Queen-of-the-House-of-David-and-Mother-of-Jesus-The-Story-of-Her-Life
 gutenberg_issued: '2019-08-01'
 gutenberg_type: Text
 identifiers:
