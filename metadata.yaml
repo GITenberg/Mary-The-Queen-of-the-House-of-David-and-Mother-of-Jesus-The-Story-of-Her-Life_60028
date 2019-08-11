@@ -1,0 +1,41 @@
+_repo: Mary-The-Queen-of-the-House-of-David-and-Mother-of-Jesus-The-Story-of-Her-Life_60028
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Talmage, T. De Witt (Thomas De Witt)
+    aliases:
+    - Talmage, T. DeWitt (Thomas De Witt)
+    - Talmage, Thomas De Witt
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '5618'
+    url: http://www.gutenberg.org/2009/agents/5618
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+creator:
+  author:
+    agent_name: Walsh, A. Stewart (Alexander Stewart)
+    alias: Walsh, Alexander Stewart
+    birthdate: 1841
+    deathdate: 1918
+    gutenberg_agent_id: '50748'
+    url: http://www.gutenberg.org/2009/agents/50748
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcc 'PS'
+- !lcsh 'Mary, Blessed Virgin, Saint -- Fiction'
+- !lcsh 'Christian women saints -- Fiction'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: 'Mary: The Queen of the House of David and Mother of Jesus
+
+  The Story of Her Life'
+url: http://www.gutenberg.org/ebooks/60028
